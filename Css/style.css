@@ -2,14 +2,16 @@
    margin: 0;
    padding: 0;
 }
-
 .card{
    width: 18rem;
    margin: 1em;
 }
+.trending{
+   margin-top: -1.8em;
+}
 nav{
    background-color:rgb(218, 17, 17);
-   font-family: cursive;
+   font-family: serif;
 
 }
 .btn{
