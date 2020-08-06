@@ -1,0 +1,24 @@
+.row{
+   margin: 0;
+   padding: 0;
+}
+.card{
+   width: 10rem;
+   margin: 1em;
+}
+nav{
+   background-color:rgb(218, 17, 17);
+   font-family: cursive;
+
+}
+.btn{
+   background-color: red;
+   border: red;
+}
+footer{
+   background-color: black;
+   color:white;
+}
+.carousel{
+   margin-bottom: 5em !important;
+}
